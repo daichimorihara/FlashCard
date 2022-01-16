@@ -11,6 +11,8 @@
 		42819C1C278EFDFE00163BE0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42819C1B278EFDFE00163BE0 /* ContentView.swift */; };
 		42819C1E278EFDFF00163BE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42819C1D278EFDFF00163BE0 /* Assets.xcassets */; };
 		42819C21278EFDFF00163BE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42819C20278EFDFF00163BE0 /* Preview Assets.xcassets */; };
+		42B960602793DD6E00D64265 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B9605F2793DD6E00D64265 /* Card.swift */; };
+		42B960622793DDB200D64265 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B960612793DDB200D64265 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		42819C1B278EFDFE00163BE0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		42819C1D278EFDFF00163BE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42819C20278EFDFF00163BE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		42B9605F2793DD6E00D64265 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		42B960612793DDB200D64265 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				42819C1B278EFDFE00163BE0 /* ContentView.swift */,
 				42819C1D278EFDFF00163BE0 /* Assets.xcassets */,
 				42819C1F278EFDFF00163BE0 /* Preview Content */,
+				42B9605F2793DD6E00D64265 /* Card.swift */,
+				42B960612793DDB200D64265 /* CardView.swift */,
 			);
 			path = FlashCard;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				42819C1C278EFDFE00163BE0 /* ContentView.swift in Sources */,
+				42B960602793DD6E00D64265 /* Card.swift in Sources */,
+				42B960622793DDB200D64265 /* CardView.swift in Sources */,
 				42819C1A278EFDFE00163BE0 /* FlashCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
